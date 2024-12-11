@@ -45,7 +45,6 @@ A/B testing is a powerful method for evaluating the impact of changes in user ex
 ## Results
 Key findings will highlight:
 - Which ad performed better.
-- Statistical significance of the observed differences.
 - Practical recommendations for optimizing ad strategies.
 
 ---
@@ -53,7 +52,7 @@ Key findings will highlight:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourblessingitodo/ad-ab-test.git
+   git clone https://github.com/yourblessingitodo/A-B-Testing.git
    cd ad-ab-test
    ```
 2. Install required dependencies:
