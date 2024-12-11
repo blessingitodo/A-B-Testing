@@ -21,6 +21,7 @@ A/B testing is a powerful method for evaluating the impact of changes in user ex
 
 ## Features
 - **Data Import and Cleaning**: Load, inspect, and prepare datasets for analysis.
+- **Data Wrangling and Exploratory Data Analysis**: Analyzed the data sets to answer multiple questions
 ---
 
 ## Tools and Libraries
